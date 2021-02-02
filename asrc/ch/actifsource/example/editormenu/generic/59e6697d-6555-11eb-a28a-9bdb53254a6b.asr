@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="59e6697d-6555-11eb-a28a-9bdb53254a6b">
+  <owns predicate="2dd1c335-652c-11eb-8606-11209d14bf64">
+    <resource statement-guid="59e66996-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="59e66980-6555-11eb-a28a-9bdb53254a6b">
+      <owns predicate="9484c909-653e-11eb-8606-11209d14bf64">
+        <resource statement-guid="59e66995-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="59e6697f-6555-11eb-a28a-9bdb53254a6b">
+          <owns predicate="3d47d3fe-f91f-11d9-bb45-5fabdff7c7da">
+            <resource statement-guid="59e66994-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="59e6697e-6555-11eb-a28a-9bdb53254a6b" />
+          </owns>
+        </resource>
+      </owns>
+    </resource>
+    <resource statement-guid="59e669a0-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="59e66983-6555-11eb-a28a-9bdb53254a6b">
+      <owns predicate="9484c909-653e-11eb-8606-11209d14bf64">
+        <resource statement-guid="59e6699f-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="59e66982-6555-11eb-a28a-9bdb53254a6b">
+          <owns predicate="3d47d3fe-f91f-11d9-bb45-5fabdff7c7da">
+            <resource statement-guid="59e6699e-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="59e66981-6555-11eb-a28a-9bdb53254a6b" />
+          </owns>
+        </resource>
+      </owns>
+    </resource>
+  </owns>
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="59e6698a-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="fdffe59b-652a-11eb-8606-11209d14bf64" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="59e6698b-6555-11eb-a28a-9bdb53254a6b" type="literal">TestModelMenu</object>
+  </predicate>
+  <predicate guid="2dd1c335-652c-11eb-8606-11209d14bf64">
+    <object statement-guid="59e66996-6555-11eb-a28a-9bdb53254a6b">
+      <resource guid="59e66980-6555-11eb-a28a-9bdb53254a6b">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="59e6698c-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="2a1b232a-652c-11eb-8606-11209d14bf64" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="59e6698d-6555-11eb-a28a-9bdb53254a6b" type="literal">TestMenuItem_1</object>
+        </predicate>
+        <predicate guid="12b50927-652d-11eb-8606-11209d14bf64">
+          <object statement-guid="59e6698e-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="270595db-f91f-11d9-bb45-5fabdff7c7da" />
+        </predicate>
+        <predicate guid="cc847af8-652d-11eb-8606-11209d14bf64">
+          <object statement-guid="59e6698f-6555-11eb-a28a-9bdb53254a6b" type="literal">images/menuitem.png</object>
+        </predicate>
+        <predicate guid="9484c909-653e-11eb-8606-11209d14bf64">
+          <object statement-guid="59e66995-6555-11eb-a28a-9bdb53254a6b">
+            <resource guid="59e6697f-6555-11eb-a28a-9bdb53254a6b">
+              <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+                <object statement-guid="59e66990-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="7ce2ad7f-653e-11eb-8606-11209d14bf64" />
+              </predicate>
+              <predicate guid="3d47d3fe-f91f-11d9-bb45-5fabdff7c7da">
+                <object statement-guid="59e66994-6555-11eb-a28a-9bdb53254a6b">
+                  <resource guid="59e6697e-6555-11eb-a28a-9bdb53254a6b">
+                    <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+                      <object statement-guid="59e66991-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="360ec494-f91f-11d9-bb45-5fabdff7c7da" />
+                    </predicate>
+                    <predicate guid="3c0568eb-f91f-11d9-bb45-5fabdff7c7da">
+                      <object statement-guid="1d9eeeec-6556-11eb-b52c-87c5f8fcb752" type="literal">ch.actifsource.example.editormenu.aspect.MenuItemActionAspect</object>
+                    </predicate>
+                    <predicate guid="3c91f17c-f91f-11d9-bb45-5fabdff7c7da">
+                      <object statement-guid="59e66993-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="7ce2ad90-653e-11eb-8606-11209d14bf64" />
+                    </predicate>
+                  </resource>
+                </object>
+              </predicate>
+            </resource>
+          </object>
+        </predicate>
+      </resource>
+    </object>
+    <object statement-guid="59e669a0-6555-11eb-a28a-9bdb53254a6b">
+      <resource guid="59e66983-6555-11eb-a28a-9bdb53254a6b">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="59e66997-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="2a1b232a-652c-11eb-8606-11209d14bf64" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="59e66998-6555-11eb-a28a-9bdb53254a6b" type="literal">TestMenuItem_2</object>
+        </predicate>
+        <predicate guid="12b50927-652d-11eb-8606-11209d14bf64">
+          <object statement-guid="59e66999-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="59e6697c-6555-11eb-a28a-9bdb53254a6b" />
+        </predicate>
+        <predicate guid="9484c909-653e-11eb-8606-11209d14bf64">
+          <object statement-guid="59e6699f-6555-11eb-a28a-9bdb53254a6b">
+            <resource guid="59e66982-6555-11eb-a28a-9bdb53254a6b">
+              <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+                <object statement-guid="59e6699a-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="7ce2ad7f-653e-11eb-8606-11209d14bf64" />
+              </predicate>
+              <predicate guid="3d47d3fe-f91f-11d9-bb45-5fabdff7c7da">
+                <object statement-guid="59e6699e-6555-11eb-a28a-9bdb53254a6b">
+                  <resource guid="59e66981-6555-11eb-a28a-9bdb53254a6b">
+                    <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+                      <object statement-guid="59e6699b-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="360ec494-f91f-11d9-bb45-5fabdff7c7da" />
+                    </predicate>
+                    <predicate guid="3c0568eb-f91f-11d9-bb45-5fabdff7c7da">
+                      <object statement-guid="2418f417-6556-11eb-b52c-87c5f8fcb752" type="literal">ch.actifsource.example.editormenu.aspect.MenuItemActionAspect</object>
+                    </predicate>
+                    <predicate guid="3c91f17c-f91f-11d9-bb45-5fabdff7c7da">
+                      <object statement-guid="59e6699d-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="7ce2ad90-653e-11eb-8606-11209d14bf64" />
+                    </predicate>
+                  </resource>
+                </object>
+              </predicate>
+            </resource>
+          </object>
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+</resource>
+
