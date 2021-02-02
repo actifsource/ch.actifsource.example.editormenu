@@ -7,7 +7,7 @@
     <object statement-guid="59e669a3-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="cd103137-8817-11df-a93b-2f9564bbc955" />
   </predicate>
   <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
-    <object statement-guid="59e669a4-6555-11eb-a28a-9bdb53254a6b" type="literal">TestDiagram</object>
+    <object statement-guid="59e669a4-6555-11eb-a28a-9bdb53254a6b" type="literal">TestDomainDiagram</object>
   </predicate>
   <predicate guid="ed82024c-8817-11df-a93b-2f9564bbc955">
     <object statement-guid="59e669ab-6555-11eb-a28a-9bdb53254a6b">
@@ -16,10 +16,10 @@
           <object statement-guid="59e669a5-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="7dc46626-8818-11df-a93b-2f9564bbc955" />
         </predicate>
         <predicate guid="840f931b-8818-11df-a93b-2f9564bbc955">
-          <object statement-guid="59e669a6-6555-11eb-a28a-9bdb53254a6b" type="literal">69</object>
+          <object statement-guid="59e669a6-6555-11eb-a28a-9bdb53254a6b" type="literal">44</object>
         </predicate>
         <predicate guid="8ecaeb72-8818-11df-a93b-2f9564bbc955">
-          <object statement-guid="59e669a7-6555-11eb-a28a-9bdb53254a6b" type="literal">85</object>
+          <object statement-guid="59e669a7-6555-11eb-a28a-9bdb53254a6b" type="literal">41</object>
         </predicate>
         <predicate guid="9f335bf9-8818-11df-a93b-2f9564bbc955">
           <object statement-guid="59e669a8-6555-11eb-a28a-9bdb53254a6b" type="literal">129</object>
