@@ -2,11 +2,10 @@ package ch.actifsource.example.editormenu.aspect;
 
 import ch.actifsource.core.PackagedResource;
 import ch.actifsource.core.update.IModifiable;
-import ch.actifsource.environment.modelmenu.aspect.IMenuItemActionAspect;
 import ch.actifsource.core.job.Update;
 import ch.actifsource.core.job.Select;
 
-public class MenuItemActionAspect implements IMenuItemActionAspect {
+public class MenuItemActionAspect implements ch.actifsource.environment.modelmenu.aspect.IMenuItemActionAspect {
 
 	@Override
 	public void run(IModifiable modifiable, PackagedResource selection) {
