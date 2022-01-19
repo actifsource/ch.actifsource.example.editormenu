@@ -19,6 +19,19 @@
         </resource>
       </owns>
     </resource>
+    <resource statement-guid="2be8de5f-7932-11ec-a0fd-55fdfbe7b456" type="resource" guid="2be8903c-7932-11ec-a0fd-55fdfbe7b456">
+      <owns predicate="b7f65da7-0976-11ec-bfb5-6d51c9715532">
+        <resource statement-guid="3112e3f4-7932-11ec-a0fd-55fdfbe7b456" type="resource" guid="3112bce1-7932-11ec-a0fd-55fdfbe7b456">
+          <owns predicate="3c4ed4d7-0977-11ec-bfb5-6d51c9715532">
+            <resource statement-guid="416ed174-7932-11ec-a0fd-55fdfbe7b456" type="resource" guid="416eaa61-7932-11ec-a0fd-55fdfbe7b456">
+              <owns predicate="3d47d3fe-f91f-11d9-bb45-5fabdff7c7da">
+                <resource statement-guid="41fa218c-7932-11ec-a0fd-55fdfbe7b456" type="resource" guid="41f9fa78-7932-11ec-a0fd-55fdfbe7b456" />
+              </owns>
+            </resource>
+          </owns>
+        </resource>
+      </owns>
+    </resource>
   </owns>
   <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
     <object statement-guid="59e6698a-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="fdffe59b-652a-11eb-8606-11209d14bf64" />
@@ -95,6 +108,55 @@
                     </predicate>
                     <predicate guid="3c91f17c-f91f-11d9-bb45-5fabdff7c7da">
                       <object statement-guid="59e6699d-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="7ce2ad90-653e-11eb-8606-11209d14bf64" />
+                    </predicate>
+                  </resource>
+                </object>
+              </predicate>
+            </resource>
+          </object>
+        </predicate>
+      </resource>
+    </object>
+    <object statement-guid="2be8de5f-7932-11ec-a0fd-55fdfbe7b456">
+      <resource guid="2be8903c-7932-11ec-a0fd-55fdfbe7b456">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="2be8b74e-7932-11ec-a0fd-55fdfbe7b456" type="resource" guid="29b0dc0a-0976-11ec-bfb5-6d51c9715532" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="2c6d0282-7932-11ec-a0fd-55fdfbe7b456" type="literal">GroupA</object>
+        </predicate>
+        <predicate guid="b7f65da7-0976-11ec-bfb5-6d51c9715532">
+          <object statement-guid="3112e3f4-7932-11ec-a0fd-55fdfbe7b456">
+            <resource guid="3112bce1-7932-11ec-a0fd-55fdfbe7b456">
+              <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+                <object statement-guid="3112bce3-7932-11ec-a0fd-55fdfbe7b456" type="resource" guid="3c4ed4cc-0977-11ec-bfb5-6d51c9715532" />
+              </predicate>
+              <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+                <object statement-guid="3279ee07-7932-11ec-a0fd-55fdfbe7b456" type="literal">TestDynamicMenuItems_3</object>
+              </predicate>
+              <predicate guid="12b50927-652d-11eb-8606-11209d14bf64">
+                <object statement-guid="4001acda-7932-11ec-a0fd-55fdfbe7b456" type="resource" guid="59e6697c-6555-11eb-a28a-9bdb53254a6b" />
+              </predicate>
+              <predicate guid="3c4ed4d7-0977-11ec-bfb5-6d51c9715532">
+                <object statement-guid="416ed174-7932-11ec-a0fd-55fdfbe7b456">
+                  <resource guid="416eaa61-7932-11ec-a0fd-55fdfbe7b456">
+                    <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+                      <object statement-guid="416ed173-7932-11ec-a0fd-55fdfbe7b456" type="resource" guid="6ec587f2-0977-11ec-bfb5-6d51c9715532" />
+                    </predicate>
+                    <predicate guid="3d47d3fe-f91f-11d9-bb45-5fabdff7c7da">
+                      <object statement-guid="41fa218c-7932-11ec-a0fd-55fdfbe7b456">
+                        <resource guid="41f9fa78-7932-11ec-a0fd-55fdfbe7b456">
+                          <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+                            <object statement-guid="41fa218a-7932-11ec-a0fd-55fdfbe7b456" type="resource" guid="360ec494-f91f-11d9-bb45-5fabdff7c7da" />
+                          </predicate>
+                          <predicate guid="3c0568eb-f91f-11d9-bb45-5fabdff7c7da">
+                            <object statement-guid="07b79f40-7933-11ec-a0fd-55fdfbe7b456" type="literal">ch.actifsource.example.editormenu.aspect.DynamicMenuItemActionAspect</object>
+                          </predicate>
+                          <predicate guid="3c91f17c-f91f-11d9-bb45-5fabdff7c7da">
+                            <object statement-guid="41fa218b-7932-11ec-a0fd-55fdfbe7b456" type="resource" guid="6ec587f6-0977-11ec-bfb5-6d51c9715532" />
+                          </predicate>
+                        </resource>
+                      </object>
                     </predicate>
                   </resource>
                 </object>
