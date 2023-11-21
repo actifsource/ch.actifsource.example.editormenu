@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="e1a22e7f-8869-11ee-8ced-2d7833d4fb90">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="e1a25591-8869-11ee-8ced-2d7833d4fb90" type="resource" guid="2576b879-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="32d2854d-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="e1a33ff3-8869-11ee-8ced-2d7833d4fb90" type="resource" guid="270595db-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="e1a2f1d2-8869-11ee-8ced-2d7833d4fb90" type="literal">BaseClassA</object>
+  </predicate>
+  <predicate guid="789d756a-7c6f-11da-8e26-0dc50b1b5a91">
+    <object statement-guid="e1a3b524-8869-11ee-8ced-2d7833d4fb90" type="resource" guid="789d7568-7c6f-11da-8e26-0dc50b1b5a91" />
+  </predicate>
+</resource>
+

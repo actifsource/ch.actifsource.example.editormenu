@@ -49,7 +49,7 @@
           <object statement-guid="59e6698d-6555-11eb-a28a-9bdb53254a6b" type="literal">TestMenuItem_1</object>
         </predicate>
         <predicate guid="12b50927-652d-11eb-8606-11209d14bf64">
-          <object statement-guid="59e6698e-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="270595db-f91f-11d9-bb45-5fabdff7c7da" />
+          <object statement-guid="59e6698e-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="e1a22e7f-8869-11ee-8ced-2d7833d4fb90" />
         </predicate>
         <predicate guid="cc847af8-652d-11eb-8606-11209d14bf64">
           <object statement-guid="59e6698f-6555-11eb-a28a-9bdb53254a6b" type="literal">images/menuitem.png</object>

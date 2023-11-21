@@ -4,7 +4,7 @@
     <object statement-guid="59e66987-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="2576b879-f91f-11d9-bb45-5fabdff7c7da" />
   </predicate>
   <predicate guid="32d2854d-f91f-11d9-bb45-5fabdff7c7da">
-    <object statement-guid="59e66988-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="270595db-f91f-11d9-bb45-5fabdff7c7da" />
+    <object statement-guid="59e66988-6555-11eb-a28a-9bdb53254a6b" type="resource" guid="e1a22e7f-8869-11ee-8ced-2d7833d4fb90" />
   </predicate>
   <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
     <object statement-guid="59e66989-6555-11eb-a28a-9bdb53254a6b" type="literal">ClassA</object>
